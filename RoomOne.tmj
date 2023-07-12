@@ -2410,6 +2410,13 @@
       "type": "tilelayer",
       "visible": true,
       "width": 60,
+      "properties": [
+        {
+          "name": "startLayer",
+          "type": "bool",
+          "value": true
+        }
+      ],
       "x": 0,
       "y": 0
     },
@@ -24191,7 +24198,7 @@
     {
       "columns": 10,
       "firstgid": 1,
-      "image": "RoomOne-chunk-1-ce453d38.png",
+      "image": "RoomOne-chunk-1-353b186d.png",
       "imageheight": 320,
       "imagewidth": 320,
       "margin": 0,
