@@ -21795,6 +21795,57 @@
           "rotation": 0,
           "type": "area",
           "width": 48.8803001023075
+        },
+        {
+          "id": 9,
+          "name": "Food-Blog",
+          "visible": true,
+          "x": 1689.21223144254,
+          "y": 372.854382175742,
+          "height": 31.8290326247584,
+          "properties": [
+            {
+              "name": "openWebsite",
+              "type": "string",
+              "value": "https://www.stern.de/genuss/foodblogs--diese-5-blogger-sollte-jeder-foodie-kennen-7947424.html"
+            }
+          ],
+          "rotation": 0,
+          "type": "area",
+          "width": 120.495623508014
+        },
+        {
+          "id": 10,
+          "name": "Break-Room",
+          "visible": true,
+          "x": 1101.51187904968,
+          "y": 526.315789473684,
+          "height": 270.546777310447,
+          "properties": [
+            {
+              "name": "focusable",
+              "type": "bool",
+              "value": true
+            },
+            {
+              "name": "jitsTrigger",
+              "type": "string",
+              "value": "onaction"
+            },
+            {
+              "name": "jitsiRoom",
+              "type": "string",
+              "value": "Break-Room"
+            },
+            {
+              "name": "zoom_margin",
+              "type": "float",
+              "value": 0
+            }
+          ],
+          "rotation": 0,
+          "type": "area",
+          "width": 211.435716721609
         }
       ],
       "opacity": 1,
@@ -24235,7 +24286,7 @@
     {
       "columns": 16,
       "firstgid": 1,
-      "image": "RoomOne-chunk-1-65a8c2e5.png",
+      "image": "RoomOne-chunk-1-ed192656.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -24261,7 +24312,7 @@
     {
       "columns": 8,
       "firstgid": 257,
-      "image": "RoomOne-chunk-2-65a8c2e5.png",
+      "image": "RoomOne-chunk-2-ed192656.png",
       "imageheight": 256,
       "imagewidth": 256,
       "margin": 0,
@@ -24279,7 +24330,7 @@
   "height": 40,
   "infinite": false,
   "nextlayerid": 16,
-  "nextobjectid": 9,
+  "nextobjectid": 11,
   "orientation": "orthogonal",
   "renderorder": "right-down",
   "tileheight": 32,
