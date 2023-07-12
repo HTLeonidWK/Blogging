@@ -6405,12 +6405,12 @@
       "name": "floorLayout",
       "objects": [
         {
-          "id": 1,
+          "id": 5,
           "name": "to-RoomOne",
           "visible": true,
           "x": 781.946241195918,
-          "y": 756.073019979876,
-          "height": 58.9334483254277,
+          "y": 757.510421158545,
+          "height": 47.4342388960758,
           "properties": [
             {
               "name": "exitUrl",
@@ -6423,12 +6423,12 @@
           "width": 67.5578553974414
         },
         {
-          "id": 3,
+          "id": 6,
           "name": "from-RoomOne",
           "visible": true,
-          "x": 804.944660054621,
-          "y": 685.640362225097,
-          "height": 38.8098318240621,
+          "x": 796.320252982607,
+          "y": 666.9541469024,
+          "height": 34.4976282880551,
           "properties": [
             {
               "name": "start",
@@ -6438,7 +6438,7 @@
           ],
           "rotation": 0,
           "type": "area",
-          "width": 53.1838436107518
+          "width": 47.434238896076
         }
       ],
       "opacity": 1,
@@ -6455,7 +6455,7 @@
     {
       "columns": 5,
       "firstgid": 1,
-      "image": "RoomTwo-chunk-1-6a592799.png",
+      "image": "RoomTwo-chunk-1-00ef25e1.png",
       "imageheight": 160,
       "imagewidth": 160,
       "margin": 0,
@@ -6484,7 +6484,7 @@
   "height": 27,
   "infinite": false,
   "nextlayerid": 13,
-  "nextobjectid": 5,
+  "nextobjectid": 7,
   "orientation": "orthogonal",
   "renderorder": "right-down",
   "tileheight": 32,
