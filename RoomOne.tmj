@@ -4830,13 +4830,6 @@
       "type": "tilelayer",
       "visible": true,
       "width": 60,
-      "properties": [
-        {
-          "name": "collisionLayer",
-          "type": "bool",
-          "value": true
-        }
-      ],
       "x": 0,
       "y": 0
     },
@@ -24205,7 +24198,7 @@
     {
       "columns": 10,
       "firstgid": 1,
-      "image": "RoomOne-chunk-1-32df096c.png",
+      "image": "RoomOne-chunk-1-a111ef86.png",
       "imageheight": 320,
       "imagewidth": 320,
       "margin": 0,
@@ -24215,7 +24208,18 @@
       "tilecount": 85,
       "tileheight": 32,
       "tilewidth": 32,
-      "tiles": []
+      "tiles": [
+        {
+          "id": 1,
+          "properties": [
+            {
+              "name": "collides",
+              "type": "bool",
+              "value": true
+            }
+          ]
+        }
+      ]
     }
   ],
   "type": "map",
