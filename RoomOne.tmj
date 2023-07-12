@@ -12085,7 +12085,7 @@
           "y": 0
         }
       ],
-      "visible": false,
+      "visible": true,
       "id": 11,
       "x": 0,
       "y": 0
@@ -16922,7 +16922,7 @@
           "y": 0
         }
       ],
-      "visible": false,
+      "visible": true,
       "id": 12,
       "x": 0,
       "y": 0
@@ -24205,7 +24205,7 @@
     {
       "columns": 10,
       "firstgid": 1,
-      "image": "RoomOne-chunk-1-15a282ab.png",
+      "image": "RoomOne-chunk-1-ed16cfe1.png",
       "imageheight": 320,
       "imagewidth": 320,
       "margin": 0,
