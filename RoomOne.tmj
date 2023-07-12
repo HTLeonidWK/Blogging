@@ -21775,7 +21775,7 @@
             }
           ],
           "rotation": 0,
-          "type": "",
+          "type": "area",
           "width": 70.4785722405366
         },
         {
@@ -21793,7 +21793,7 @@
             }
           ],
           "rotation": 0,
-          "type": "",
+          "type": "area",
           "width": 40.923041946118
         }
       ],
@@ -24235,7 +24235,7 @@
     {
       "columns": 16,
       "firstgid": 1,
-      "image": "RoomOne-chunk-1-add2136e.png",
+      "image": "RoomOne-chunk-1-99f1bb5e.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -24261,7 +24261,7 @@
     {
       "columns": 8,
       "firstgid": 257,
-      "image": "RoomOne-chunk-2-add2136e.png",
+      "image": "RoomOne-chunk-2-99f1bb5e.png",
       "imageheight": 256,
       "imagewidth": 256,
       "margin": 0,
@@ -24279,7 +24279,7 @@
   "height": 40,
   "infinite": false,
   "nextlayerid": 16,
-  "nextobjectid": 6,
+  "nextobjectid": 7,
   "orientation": "orthogonal",
   "renderorder": "right-down",
   "tileheight": 32,
