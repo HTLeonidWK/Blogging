@@ -342,8 +342,8 @@
          "name":"floorLayout",
          "objects":[
                 {
-                 "height":58.9334483254277,
-                 "id":1,
+                 "height":47.4342388960758,
+                 "id":5,
                  "name":"to-RoomOne",
                  "properties":[
                         {
@@ -356,11 +356,11 @@
                  "visible":true,
                  "width":67.5578553974414,
                  "x":781.946241195918,
-                 "y":756.073019979876
+                 "y":757.510421158545
                 }, 
                 {
-                 "height":38.8098318240621,
-                 "id":3,
+                 "height":34.4976282880551,
+                 "id":6,
                  "name":"from-RoomOne",
                  "properties":[
                         {
@@ -371,9 +371,9 @@
                  "rotation":0,
                  "type":"area",
                  "visible":true,
-                 "width":53.1838436107518,
-                 "x":804.944660054621,
-                 "y":685.640362225097
+                 "width":47.434238896076,
+                 "x":796.320252982607,
+                 "y":666.9541469024
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -382,7 +382,7 @@
          "y":0
         }],
  "nextlayerid":13,
- "nextobjectid":5,
+ "nextobjectid":7,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.10.1",
