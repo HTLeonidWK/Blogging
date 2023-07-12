@@ -352,7 +352,7 @@
                          "value":"RoomOne.tmj#from-RoomTwo"
                         }],
                  "rotation":0,
-                 "type":"",
+                 "type":"area",
                  "visible":true,
                  "width":67.5578553974414,
                  "x":781.946241195918,
@@ -369,7 +369,7 @@
                          "value":true
                         }],
                  "rotation":0,
-                 "type":"",
+                 "type":"area",
                  "visible":true,
                  "width":53.1838436107518,
                  "x":804.944660054621,
