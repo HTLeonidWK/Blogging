@@ -535,6 +535,55 @@
                  "width":48.8803001023075,
                  "x":1785.83608048198,
                  "y":165.965670114812
+                }, 
+                {
+                 "height":31.8290326247584,
+                 "id":9,
+                 "name":"Food-Blog",
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"https:\/\/www.stern.de\/genuss\/foodblogs--diese-5-blogger-sollte-jeder-foodie-kennen-7947424.html"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":120.495623508014,
+                 "x":1689.21223144254,
+                 "y":372.854382175742
+                }, 
+                {
+                 "height":270.546777310447,
+                 "id":10,
+                 "name":"Break-Room",
+                 "properties":[
+                        {
+                         "name":"focusable",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"jitsTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"jitsiRoom",
+                         "type":"string",
+                         "value":"Break-Room"
+                        }, 
+                        {
+                         "name":"zoom_margin",
+                         "type":"float",
+                         "value":0
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":211.435716721609,
+                 "x":1101.51187904968,
+                 "y":526.315789473684
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -604,7 +653,7 @@
          "y":0
         }],
  "nextlayerid":16,
- "nextobjectid":9,
+ "nextobjectid":11,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.10.1",
