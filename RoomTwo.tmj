@@ -7247,7 +7247,7 @@
             {
               "name": "openWebsite",
               "type": "string",
-              "value": ""
+              "value": "https://www.influma.com/blog/top-10-die-besten-fashionblogs/"
             }
           ],
           "rotation": 0,
@@ -7265,7 +7265,7 @@
             {
               "name": "openWebsite",
               "type": "string",
-              "value": ""
+              "value": "https://www.stuttgarter-nachrichten.de/thema/Newsblog"
             }
           ],
           "rotation": 0,
@@ -8101,7 +8101,7 @@
     {
       "columns": 14,
       "firstgid": 1,
-      "image": "RoomTwo-chunk-1-76dc2800.png",
+      "image": "RoomTwo-chunk-1-4bb43c13.png",
       "imageheight": 448,
       "imagewidth": 448,
       "margin": 0,
