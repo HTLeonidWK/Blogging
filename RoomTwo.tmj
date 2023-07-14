@@ -7301,7 +7301,7 @@
             {
               "name": "openWebsite",
               "type": "string",
-              "value": "https://witeboard.com/a7293aa0-224c-11ee-afde-31cb39be3beb"
+              "value": "https://whiteboard-online.org/boards/blog"
             }
           ],
           "rotation": 0,
@@ -8119,7 +8119,7 @@
     {
       "columns": 14,
       "firstgid": 1,
-      "image": "RoomTwo-chunk-1-4e96afb8.png",
+      "image": "RoomTwo-chunk-1-51e2a835.png",
       "imageheight": 448,
       "imagewidth": 448,
       "margin": 0,
