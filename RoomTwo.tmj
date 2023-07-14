@@ -421,7 +421,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":""
+                         "value":"https:\/\/www.influma.com\/blog\/top-10-die-besten-fashionblogs\/"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -438,7 +438,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":""
+                         "value":"https:\/\/www.stuttgarter-nachrichten.de\/thema\/Newsblog"
                         }],
                  "rotation":0,
                  "type":"area",
