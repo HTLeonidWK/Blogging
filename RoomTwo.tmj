@@ -424,7 +424,7 @@
                          "value":""
                         }],
                  "rotation":0,
-                 "type":"",
+                 "type":"area",
                  "visible":true,
                  "width":97.7432801494897,
                  "x":608.020698576973,
@@ -441,7 +441,7 @@
                          "value":""
                         }],
                  "rotation":0,
-                 "type":"",
+                 "type":"area",
                  "visible":true,
                  "width":129.366106080207,
                  "x":77.6196636481242,
@@ -455,10 +455,10 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/www.ponggame.org\/"
+                         "value":"https:\/\/www.coolmathgames.com\/0-atari-pong"
                         }],
                  "rotation":0,
-                 "type":"",
+                 "type":"area",
                  "visible":true,
                  "width":130.772005772006,
                  "x":477.092352092352,
