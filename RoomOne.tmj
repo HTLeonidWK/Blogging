@@ -21862,8 +21862,44 @@
             }
           ],
           "rotation": 0,
-          "type": "",
+          "type": "area",
           "width": 82.982835057406
+        },
+        {
+          "id": 12,
+          "name": "Definition-Blog",
+          "visible": true,
+          "x": 1629.03526777384,
+          "y": 1052.43515581265,
+          "height": 69.0427318529576,
+          "properties": [
+            {
+              "name": "openWebsite",
+              "type": "string",
+              "value": "https://www.netzwelt.de/abkuerzung/172834-blog-erklaerung-definition.html"
+            }
+          ],
+          "rotation": 0,
+          "type": "area",
+          "width": 102.631087889531
+        },
+        {
+          "id": 13,
+          "name": "Reise-Blog",
+          "visible": true,
+          "x": 709.087516327673,
+          "y": 865.833177831685,
+          "height": 59.7126329539093,
+          "properties": [
+            {
+              "name": "openWebsite",
+              "type": "string",
+              "value": "https://www.travelspring.de/reiseblog-erstellen/"
+            }
+          ],
+          "rotation": 0,
+          "type": "area",
+          "width": 74.6407911923866
         }
       ],
       "opacity": 1,
@@ -24304,7 +24340,7 @@
     {
       "columns": 16,
       "firstgid": 1,
-      "image": "RoomOne-chunk-1-80dd97f5.png",
+      "image": "RoomOne-chunk-1-7a136031.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -24330,7 +24366,7 @@
     {
       "columns": 9,
       "firstgid": 257,
-      "image": "RoomOne-chunk-2-80dd97f5.png",
+      "image": "RoomOne-chunk-2-7a136031.png",
       "imageheight": 288,
       "imagewidth": 288,
       "margin": 0,
@@ -24348,7 +24384,7 @@
   "height": 40,
   "infinite": false,
   "nextlayerid": 16,
-  "nextobjectid": 12,
+  "nextobjectid": 14,
   "orientation": "orthogonal",
   "renderorder": "right-down",
   "tileheight": 32,

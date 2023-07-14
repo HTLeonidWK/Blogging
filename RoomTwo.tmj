@@ -7265,7 +7265,7 @@
             {
               "name": "openWebsite",
               "type": "string",
-              "value": "https://www.stuttgarter-nachrichten.de/thema/Newsblog"
+              "value": ""
             }
           ],
           "rotation": 0,
@@ -7283,7 +7283,7 @@
             {
               "name": "openWebsite",
               "type": "string",
-              "value": "https://www.coolmathgames.com/0-atari-pong"
+              "value": "https://ponggame.io/"
             }
           ],
           "rotation": 0,
@@ -8101,7 +8101,7 @@
     {
       "columns": 14,
       "firstgid": 1,
-      "image": "RoomTwo-chunk-1-7d42b66e.png",
+      "image": "RoomTwo-chunk-1-9227c1ca.png",
       "imageheight": 448,
       "imagewidth": 448,
       "margin": 0,
@@ -8130,7 +8130,7 @@
   "height": 27,
   "infinite": false,
   "nextlayerid": 15,
-  "nextobjectid": 13,
+  "nextobjectid": 14,
   "orientation": "orthogonal",
   "renderorder": "right-down",
   "tileheight": 32,
