@@ -7251,7 +7251,7 @@
             }
           ],
           "rotation": 0,
-          "type": "",
+          "type": "area",
           "width": 97.7432801494897
         },
         {
@@ -7269,7 +7269,7 @@
             }
           ],
           "rotation": 0,
-          "type": "",
+          "type": "area",
           "width": 129.366106080207
         },
         {
@@ -7283,11 +7283,11 @@
             {
               "name": "openWebsite",
               "type": "string",
-              "value": "https://www.ponggame.org/"
+              "value": "https://www.coolmathgames.com/0-atari-pong"
             }
           ],
           "rotation": 0,
-          "type": "",
+          "type": "area",
           "width": 130.772005772006
         }
       ],
@@ -8101,7 +8101,7 @@
     {
       "columns": 14,
       "firstgid": 1,
-      "image": "RoomTwo-chunk-1-71332165.png",
+      "image": "RoomTwo-chunk-1-ed5d7979.png",
       "imageheight": 448,
       "imagewidth": 448,
       "margin": 0,
