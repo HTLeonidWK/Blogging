@@ -160,7 +160,7 @@
          "name":"Floor",
          "opacity":1,
          "type":"group",
-         "visible":false,
+         "visible":true,
          "x":0,
          "y":0
         }, 
@@ -438,7 +438,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":""
+                         "value":"https:\/\/blog.hubspot.de\/website\/business-blog"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -463,6 +463,23 @@
                  "width":130.772005772006,
                  "x":477.092352092352,
                  "y":541.125541125541
+                }, 
+                {
+                 "height":236.291486291486,
+                 "id":14,
+                 "name":"White-Board",
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"https:\/\/witeboard.com\/a7293aa0-224c-11ee-afde-31cb39be3beb"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":191.197691197691,
+                 "x":93.7950937950938,
+                 "y":533.910533910534
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -509,7 +526,7 @@
          "y":0
         }],
  "nextlayerid":15,
- "nextobjectid":14,
+ "nextobjectid":16,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.10.1",
