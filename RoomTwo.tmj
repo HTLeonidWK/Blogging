@@ -3190,7 +3190,7 @@
           "y": 0
         }
       ],
-      "visible": false,
+      "visible": true,
       "id": 5,
       "x": 0,
       "y": 0
@@ -7265,7 +7265,7 @@
             {
               "name": "openWebsite",
               "type": "string",
-              "value": ""
+              "value": "https://blog.hubspot.de/website/business-blog"
             }
           ],
           "rotation": 0,
@@ -7289,6 +7289,24 @@
           "rotation": 0,
           "type": "area",
           "width": 130.772005772006
+        },
+        {
+          "id": 14,
+          "name": "White-Board",
+          "visible": true,
+          "x": 93.7950937950938,
+          "y": 533.910533910534,
+          "height": 236.291486291486,
+          "properties": [
+            {
+              "name": "openWebsite",
+              "type": "string",
+              "value": "https://witeboard.com/a7293aa0-224c-11ee-afde-31cb39be3beb"
+            }
+          ],
+          "rotation": 0,
+          "type": "area",
+          "width": 191.197691197691
         }
       ],
       "opacity": 1,
@@ -8101,7 +8119,7 @@
     {
       "columns": 14,
       "firstgid": 1,
-      "image": "RoomTwo-chunk-1-9227c1ca.png",
+      "image": "RoomTwo-chunk-1-4e96afb8.png",
       "imageheight": 448,
       "imagewidth": 448,
       "margin": 0,
@@ -8130,7 +8148,7 @@
   "height": 27,
   "infinite": false,
   "nextlayerid": 15,
-  "nextobjectid": 14,
+  "nextobjectid": 16,
   "orientation": "orthogonal",
   "renderorder": "right-down",
   "tileheight": 32,
