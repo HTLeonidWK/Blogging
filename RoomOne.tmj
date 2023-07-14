@@ -596,11 +596,45 @@
                          "value":""
                         }],
                  "rotation":0,
-                 "type":"",
+                 "type":"area",
                  "visible":true,
                  "width":82.982835057406,
                  "x":1165.16994429919,
                  "y":372.854382175742
+                }, 
+                {
+                 "height":69.0427318529576,
+                 "id":12,
+                 "name":"Definition-Blog",
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"https:\/\/www.netzwelt.de\/abkuerzung\/172834-blog-erklaerung-definition.html"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":102.631087889531,
+                 "x":1629.03526777384,
+                 "y":1052.43515581265
+                }, 
+                {
+                 "height":59.7126329539093,
+                 "id":13,
+                 "name":"Reise-Blog",
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"https:\/\/www.travelspring.de\/reiseblog-erstellen\/"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":74.6407911923866,
+                 "x":709.087516327673,
+                 "y":865.833177831685
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -670,7 +704,7 @@
          "y":0
         }],
  "nextlayerid":16,
- "nextobjectid":12,
+ "nextobjectid":14,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.10.1",

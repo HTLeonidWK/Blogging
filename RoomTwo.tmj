@@ -438,7 +438,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/www.stuttgarter-nachrichten.de\/thema\/Newsblog"
+                         "value":""
                         }],
                  "rotation":0,
                  "type":"area",
