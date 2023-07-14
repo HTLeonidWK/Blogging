@@ -21807,7 +21807,7 @@
             {
               "name": "openWebsite",
               "type": "string",
-              "value": "https://www.stern.de/genuss/foodblogs--diese-5-blogger-sollte-jeder-foodie-kennen-7947424.html"
+              "value": "https://gesund.co.at/food-blog-was-ist-das-27593/#:~:text=Food%20Blogs%20sind%20mehr%20als,h%C3%A4ngen%20bleibt%2C%20ist%20selbst%20schuld."
             }
           ],
           "rotation": 0,
@@ -24304,7 +24304,7 @@
     {
       "columns": 16,
       "firstgid": 1,
-      "image": "RoomOne-chunk-1-a08d11f7.png",
+      "image": "RoomOne-chunk-1-80dd97f5.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -24330,7 +24330,7 @@
     {
       "columns": 9,
       "firstgid": 257,
-      "image": "RoomOne-chunk-2-a08d11f7.png",
+      "image": "RoomOne-chunk-2-80dd97f5.png",
       "imageheight": 288,
       "imagewidth": 288,
       "margin": 0,
