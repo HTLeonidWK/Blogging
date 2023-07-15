@@ -593,7 +593,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":""
+                         "value":"https:\/\/www.bloggersideas.com\/de\/political-blogs\/"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -627,7 +627,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/www.travelspring.de\/reiseblog-erstellen\/"
+                         "value":"https:\/\/www.planetbackpack.de\/reiseblog\/"
                         }],
                  "rotation":0,
                  "type":"area",
