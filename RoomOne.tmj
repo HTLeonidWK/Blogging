@@ -703,28 +703,6 @@
                  "width":191.784211828755,
                  "x":190.546894333086,
                  "y":254.887404107894
-                }, 
-                {
-                 "height":68.0524622618164,
-                 "id":16,
-                 "name":"clock",
-                 "rotation":0,
-                 "type":"area",
-                 "visible":true,
-                 "width":69.2897797574858,
-                 "x":1597.37688690918,
-                 "y":94.0361296708735
-                }, 
-                {
-                 "height":75.4763672358327,
-                 "id":17,
-                 "name":"clockPopup",
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":110.121257114576,
-                 "x":1464.98391487256,
-                 "y":37.1195248700817
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -796,22 +774,6 @@
  "nextlayerid":17,
  "nextobjectid":19,
  "orientation":"orthogonal",
- "properties":[
-        {
-         "name":"mapCopyright",
-         "type":"string",
-         "value":"Credits: WorkAdventure (https:\/\/workadventu.re\/) \nLicense: CC-BY-SA 3.0 (http:\/\/creativecommons.org\/licenses\/by-sa\/3.0\/)"
-        }, 
-        {
-         "name":"mapName",
-         "type":"string",
-         "value":"RoomOne"
-        }, 
-        {
-         "name":"script",
-         "type":"string",
-         "value":"src\/main.ts"
-        }],
  "renderorder":"right-down",
  "tiledversion":"1.10.1",
  "tileheight":32,
