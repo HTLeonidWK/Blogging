@@ -24325,7 +24325,7 @@
             {
               "name": "openWebsite",
               "type": "string",
-              "value": ""
+              "value": "https://www.quiz-maker.com/#QP-3020945xfA0dEEe7-141"
             }
           ],
           "rotation": 0,
@@ -26771,7 +26771,7 @@
     {
       "columns": 16,
       "firstgid": 1,
-      "image": "RoomOne-chunk-1-2f1bfe22.png",
+      "image": "RoomOne-chunk-1-605091e5.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -27957,7 +27957,7 @@
     {
       "columns": 11,
       "firstgid": 257,
-      "image": "RoomOne-chunk-2-2f1bfe22.png",
+      "image": "RoomOne-chunk-2-605091e5.png",
       "imageheight": 352,
       "imagewidth": 352,
       "margin": 0,
