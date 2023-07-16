@@ -718,7 +718,7 @@
                 {
                  "height":75.4763672358327,
                  "id":17,
-                 "name":"clcokPopup",
+                 "name":"clockPopup",
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -797,6 +797,11 @@
  "nextobjectid":19,
  "orientation":"orthogonal",
  "properties":[
+        {
+         "name":"mapCopyright",
+         "type":"string",
+         "value":"Credits: WorkAdventure (https:\/\/workadventu.re\/) \nLicense: CC-BY-SA 3.0 (http:\/\/creativecommons.org\/licenses\/by-sa\/3.0\/)"
+        }, 
         {
          "name":"mapName",
          "type":"string",
