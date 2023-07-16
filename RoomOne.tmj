@@ -688,9 +688,9 @@
                  "y":865.833177831685
                 }, 
                 {
-                 "height":223.081939428503,
-                 "id":14,
-                 "name":"Quiz-Blogging",
+                 "height":223.954466716159,
+                 "id":15,
+                 "name":"Quiz-Blog",
                  "properties":[
                         {
                          "name":"openWebsite",
@@ -700,9 +700,9 @@
                  "rotation":0,
                  "type":"area",
                  "visible":true,
-                 "width":189.543497501266,
-                 "x":192.83921522051,
-                 "y":254.854189794604
+                 "width":191.784211828755,
+                 "x":190.546894333086,
+                 "y":254.887404107894
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -772,7 +772,7 @@
          "y":0
         }],
  "nextlayerid":17,
- "nextobjectid":15,
+ "nextobjectid":16,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.10.1",
