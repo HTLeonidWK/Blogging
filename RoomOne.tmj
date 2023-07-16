@@ -24315,12 +24315,12 @@
           "width": 90.0728899578187
         },
         {
-          "id": 14,
-          "name": "Quiz-Blogging",
+          "id": 15,
+          "name": "Quiz-Blog",
           "visible": true,
-          "x": 192.83921522051,
-          "y": 254.854189794604,
-          "height": 223.081939428503,
+          "x": 190.546894333086,
+          "y": 254.887404107894,
+          "height": 223.954466716159,
           "properties": [
             {
               "name": "openWebsite",
@@ -24330,7 +24330,7 @@
           ],
           "rotation": 0,
           "type": "area",
-          "width": 189.543497501266
+          "width": 191.784211828755
         }
       ],
       "opacity": 1,
@@ -26771,7 +26771,7 @@
     {
       "columns": 16,
       "firstgid": 1,
-      "image": "RoomOne-chunk-1-bb3f277f.png",
+      "image": "RoomOne-chunk-1-f4433f5d.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -27957,7 +27957,7 @@
     {
       "columns": 11,
       "firstgid": 257,
-      "image": "RoomOne-chunk-2-bb3f277f.png",
+      "image": "RoomOne-chunk-2-f4433f5d.png",
       "imageheight": 352,
       "imagewidth": 352,
       "margin": 0,
@@ -28536,7 +28536,7 @@
   "height": 40,
   "infinite": false,
   "nextlayerid": 17,
-  "nextobjectid": 15,
+  "nextobjectid": 16,
   "orientation": "orthogonal",
   "renderorder": "right-down",
   "tileheight": 32,
