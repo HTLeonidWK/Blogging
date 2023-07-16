@@ -21858,7 +21858,7 @@
             {
               "name": "openWebsite",
               "type": "string",
-              "value": "https://www.bloggersideas.com/de/political-blogs/"
+              "value": "https://thrivemyway.com/news-blogs/\n"
             }
           ],
           "rotation": 0,
@@ -24358,7 +24358,7 @@
     {
       "columns": 16,
       "firstgid": 1,
-      "image": "RoomOne-chunk-1-abe3e751.png",
+      "image": "RoomOne-chunk-1-a92433ba.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -24384,7 +24384,7 @@
     {
       "columns": 10,
       "firstgid": 257,
-      "image": "RoomOne-chunk-2-abe3e751.png",
+      "image": "RoomOne-chunk-2-a92433ba.png",
       "imageheight": 320,
       "imagewidth": 320,
       "margin": 0,
